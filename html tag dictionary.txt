@@ -31,10 +31,12 @@ attributes:none
 example: <p> Hi, I'm Leo. Nice to meet you.</p>
 6.<a>: link tag
 
+
+
 attributes: href
 example:
  <a href="https://www.youtube.com/"> website</a>
-7/<img>:image tag
+7./<img>:image tag
 
 attributes: src
 example:
@@ -44,3 +46,23 @@ example:
 attributes: none
 example:
 <li>French</li> 
+8.<h3>:header, but has a slightly smaller font than h2 tag
+
+
+attributes:none
+example:<h3>Leo</h3>
+9.<h4>:header, but has a slightly smaller font than h3 tag
+
+
+attributes:none
+example:<h4>Leo</h4>
+10.<h5>:header, but has a slightly smaller font than h4 tag
+
+
+attributes:none
+example:<h5>Leo</h5>
+11.<h6>:header, but has a slightly smaller font than h5 tag
+
+
+attributes:none
+example:<h6>Leo</h6>
