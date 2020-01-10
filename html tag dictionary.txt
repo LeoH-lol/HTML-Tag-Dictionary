@@ -1,0 +1,46 @@
+1.<ul>: unordered list
+
+attributes:none
+example:
+<ul>
+<li>basketball</li>
+<li>video games</li>
+</ul>
+
+2.<ol>: ordered list
+
+attributes:none
+example:
+<ol>
+<li>French</li>  
+<li>studying for too long</li>
+</ol>
+
+3.<h1>: header tag, makes text larege and puts it an separate line
+
+attributes:none
+example:
+<h1>Leo</h1>
+
+4.<h2>: header, but has a slightly smaller font than h1 tag
+
+attributes:none
+5.<p>: used to create a single paragrah, and puts it an separate line
+
+attributes:none
+example: <p> Hi, I'm Leo. Nice to meet you.</p>
+6.<a>: link tag
+
+attributes: href
+example:
+ <a href="https://www.youtube.com/"> website</a>
+7/<img>:image tag
+
+attributes: src
+example:
+<img src="trump.jpg">
+<li>:list tag
+
+attributes: none
+example:
+<li>French</li> 
