@@ -33,6 +33,7 @@ example: <p> Hi, I'm Leo. Nice to meet you.</p>
 
 
 
+
 attributes: href
 example:
  <a href="https://www.youtube.com/"> website</a>
@@ -66,3 +67,16 @@ example:<h5>Leo</h5>
 
 attributes:none
 example:<h6>Leo</h6>
+
+12.<!DOCTYPE HTML> <!-- Selectes the version of HTML, the html attribute means you want the most recent version -->
+
+<html> <!-- marks the beginning and end of your html code -->
+
+<head> <!-- things for your browser to think about when looking at your webpage -->
+   
+   <title>First Website</title> <!-- controls the tab name -->
+<head>
+
+<body>
+
+</html>
