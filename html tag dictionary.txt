@@ -70,13 +70,8 @@ example:<h6>Leo</h6>
 
 12.<!DOCTYPE HTML> <!-- Selectes the version of HTML, the html attribute means you want the most recent version -->
 
-<html> <!-- marks the beginning and end of your html code -->
+13.<html> <!-- marks the beginning and end of your html code -->
 
-<head> <!-- things for your browser to think about when looking at your webpage -->
+14.<head> <!-- things for your browser to think about when looking at your webpage -->
    
-   <title>First Website</title> <!-- controls the tab name -->
-<head>
-
-<body>
-
-</html>
+15.<title> <!-- controls the tab name -->
